@@ -2,6 +2,7 @@
 A java animator application
 
 ##Regular Version:
+
 An interface for a view, which is directly implemented by the text, visual and SVG views. Interaction, or ''back-and-forth between the user and the program" makes the role of a controller more well-defined and non-trivial than it may have seemed in the previous assignment. Like views and models, controllers are best described as an interface whose purpose is to mediate the interactions between the view and the model. Multiple implementations of controllers are possible --- potentially a specialized one for every model/view pairing. 
 
 
@@ -18,6 +19,20 @@ An interface for a view, which is directly implemented by the text, visual and S
 
 - The ability of an input file to take in the slow-motion information. Specifically you will have to specify several (time-interval: tempo) instances for an animation.
 - The ability of your program to play the animation in slow motion according to the inputs, in your interactive view. You do not have to support this feature for the other views, including the visual view.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
